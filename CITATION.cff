@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the paper."
+title: "Structurally-Compliant IPv6 Extension-Header Command-and-Control: Signature Evasion and the Limits of Behavioral Detection"
+authors:
+  - family-names: Dinh
+    given-names: Dang Truong
+    orcid: "https://orcid.org/0009-0005-9459-6486"
+doi: 10.5281/zenodo.23029268
+date-released: 2026-09-29
