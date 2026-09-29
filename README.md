@@ -5,8 +5,9 @@
 This repository contains the research and proof-of-concept (PoC) framework for **"The Invisible Tunnel,"** a project officially selected for the **2026 Student Posters at the Capitol** program at the Tennessee State Capitol.
 
 ## Research Paper
-You can read the preliminary draft of our paper here:
-👉 [Download/Read the Paper PDF](https://www.overleaf.com/read/fhtvydkvphmw#a8f36a)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23029268.svg)](https://doi.org/10.5281/zenodo.23029268)
+
+Code and artifacts for: *Structurally-Compliant IPv6 Extension-Header Command-and-Control: Signature Evasion and the Limits of Behavioral Detection* (preprint, Zenodo, 2026).
 
 ---
 ## Attack, Detection, and Limits
